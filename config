@@ -1,0 +1,5 @@
+#!/bin/bash
+
+DOCKER_IMAGE_NAME="wall-foller-ros2-image"
+CONTAINER_NAME="wall-foller-ros2-container"
+ROS_NETWORK="host"
